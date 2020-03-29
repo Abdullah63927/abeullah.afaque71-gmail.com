@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2012\Projects\DMaasignment\DMaasignment\bin\Debug\DMaasignment.exe.config
+c:\users\user\documents\visual studio 2012\Projects\DMaasignment\DMaasignment\obj\Debug\DMaasignment.csprojResolveAssemblyReference.cache
